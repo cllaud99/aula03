@@ -1,0 +1,5 @@
+print("Teste de comando")
+print("Teste de comando 2")
+print("Teste de comando 3")
+print("Teste de comando 4")
+print("Teste de comando 5")
